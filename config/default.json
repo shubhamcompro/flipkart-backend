@@ -1,0 +1,6 @@
+{
+  "name": "Flipkart Backend",
+  "bcrypt": {
+    "saltRounds": 10
+  }
+}

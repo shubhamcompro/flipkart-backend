@@ -1,0 +1,10 @@
+{
+  "name": "Flipkart Backend in development mode",
+  "database": {
+    "user": "shuboy",
+    "password": "compro2018",
+    "host": "ds145923.mlab.com",
+    "port": "45923",
+    "dbName": "flipkartdb"
+  }
+}
